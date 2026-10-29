@@ -1,0 +1,9 @@
+{
+  "name": "fruit-punch",
+  "version": "0.1.0",
+  "description": "Double-entry bookkeeping system backed by Supabase",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "dependencies": { "@supabase/supabase-js": "2.45.4" }
+}
