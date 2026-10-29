@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b1b00"/><stop offset=".7" stop-color="#c8941a"/><stop offset="1" stop-color="#ffe08a"/></linearGradient>
+<pattern id="w" width="16" height="22" patternUnits="userSpaceOnUse"><rect x="3" y="4" width="8" height="12" fill="#fed100" opacity=".7"/></pattern></defs>
+<rect width="1600" height="600" fill="url(#s)"/>
+<g fill="#1a1200"><rect x="150" y="260" width="130" height="340"/><rect x="300" y="170" width="110" height="430"/><rect x="430" y="300" width="160" height="300"/><rect x="620" y="120" width="120" height="480"/><rect x="760" y="230" width="150" height="370"/><rect x="940" y="320" width="130" height="280"/><rect x="1100" y="190" width="140" height="410"/><rect x="1270" y="280" width="170" height="320"/></g>
+<g fill="url(#w)"><rect x="150" y="260" width="130" height="340"/><rect x="300" y="170" width="110" height="430"/><rect x="620" y="120" width="120" height="480"/><rect x="760" y="230" width="150" height="370"/><rect x="1100" y="190" width="140" height="410"/></g>
+<polyline points="80,540 300,500 520,520 760,430 1000,450 1300,340 1520,280" fill="none" stroke="#fff" stroke-width="6" opacity=".8"/>
+</svg>

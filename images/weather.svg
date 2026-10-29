@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#3a7ca5"/></linearGradient></defs>
+<rect width="1600" height="600" fill="url(#s)"/>
+<g fill="#25364f"><ellipse cx="300" cy="140" rx="260" ry="80"/><ellipse cx="620" cy="110" rx="240" ry="90"/><ellipse cx="1000" cy="130" rx="300" ry="95"/><ellipse cx="1400" cy="120" rx="260" ry="85"/></g>
+<g fill="#3b4f6b"><ellipse cx="450" cy="170" rx="240" ry="60"/><ellipse cx="1200" cy="180" rx="260" ry="60"/></g>
+<path d="M850 200 L790 330 H850 L800 470 L930 300 H870 L920 200Z" fill="#fed100"/>
+<g stroke="#bcd7ee" stroke-width="2" opacity=".5"><path d="M100 240l-20 60M260 260l-20 60M420 250l-20 60M600 270l-20 60M1000 250l-20 60M1150 270l-20 60M1330 250l-20 60M1480 270l-20 60M180 340l-20 60M520 360l-20 60M1060 360l-20 60M1400 350l-20 60"/></g>
+<path d="M0 500 Q200 470 400 500 T800 500 T1200 500 T1600 500 V600 H0Z" fill="#0f3d5e"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b3d2e"/><stop offset=".55" stop-color="#2e9e5b"/><stop offset="1" stop-color="#fed100"/></linearGradient>
+<g id="p"><path d="M0 0Q12-80-5-160" stroke="#06190f" stroke-width="8" fill="none"/><g fill="#06190f"><path d="M-5-160Q-70-190-130-135Q-60-170-5-160Z"/><path d="M-5-160Q60-200 130-145Q60-175-5-160Z"/><path d="M-5-160Q-40-235-95-235Q-40-210-5-160Z"/><path d="M-5-160Q30-240 90-228Q35-205-5-160Z"/></g></g></defs>
+<rect width="1600" height="600" fill="url(#s)"/>
+<circle cx="1180" cy="360" r="90" fill="#fff6c2" opacity=".9"/>
+<path d="M0 420 L180 280 L300 360 L520 190 L720 350 L900 250 L1120 380 L1350 270 L1600 400 V600 H0Z" fill="#0f5a3a" opacity=".75"/>
+<path d="M0 470 L250 370 L450 450 L700 340 L980 460 L1250 380 L1600 470 V600 H0Z" fill="#0a3f2a"/>
+<path d="M0 520 Q400 490 800 520 T1600 510 V600 H0Z" fill="#0a7bb0" opacity=".9"/>
+<use href="#p" transform="translate(1380 600) scale(1.5)"/><use href="#p" transform="translate(1500 600) scale(1)"/><use href="#p" transform="translate(130 600) scale(1.2)"/>
+</svg>

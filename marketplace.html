@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Online Marketplace · Island Pulse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="marketplace">
+<div id="site-header"></div>
+<section class="mkt-hero"><div class="wrap">
+  <div><h1>Online Marketplace</h1><p>Shop products from Jamaican and Caribbean makers and merchants.</p></div>
+  <div class="cart">Cart<span id="cart-count">0</span></div>
+</div></section>
+<main class="wrap">
+  <div class="dir-search">
+    <input id="search" type="search" placeholder="Search products or sellers" aria-label="Search">
+    <select id="sort" class="sort" aria-label="Sort"><option value="top">Top rated</option><option value="low">Price: low to high</option><option value="high">Price: high to low</option></select>
+  </div>
+  <div id="chips" class="chips"></div>
+  <div id="count" class="count"></div>
+  <div id="products" class="mkt-grid"></div>
+</main>
+<div id="site-footer"></div>
+<script src="js/data.js"></script><script src="js/app.js"></script>
+</body>
+</html>

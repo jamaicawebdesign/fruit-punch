@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e2a"/><stop offset="1" stop-color="#2b3ccf"/></linearGradient></defs>
+<rect width="1600" height="600" fill="url(#s)"/>
+<g stroke="#8fa0ff" stroke-width="1" opacity=".25"><path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600M200 0V600M400 0V600M600 0V600M800 0V600M1000 0V600M1200 0V600M1400 0V600"/></g>
+<g stroke="#fed100" stroke-width="3" fill="none" opacity=".85"><polyline points="200,400 400,200 800,300 1000,150 1400,250"/><polyline points="400,200 600,420 800,300 1200,430 1400,250"/></g>
+<g fill="#fff"><circle cx="200" cy="400" r="10"/><circle cx="400" cy="200" r="12"/><circle cx="600" cy="420" r="9"/><circle cx="800" cy="300" r="14"/><circle cx="1000" cy="150" r="10"/><circle cx="1200" cy="430" r="11"/><circle cx="1400" cy="250" r="12"/></g>
+<g fill="#1d2a8f" stroke="#8fa0ff" stroke-width="2"><path d="M100 580 L180 520 H420 L340 580Z"/><path d="M1180 580 L1260 520 H1500 L1420 580Z"/></g>
+</svg>
